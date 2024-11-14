@@ -30,10 +30,6 @@
       ],
       "tags": [
         {
-          "category": "Test 1",
-          "tag": "Tag One"
-        },
-        {
           "category": "_uncategorized_",
           "tag": "Unknown"
         },
@@ -108,7 +104,7 @@
       ]
     },
     "created_at": "2024-11-14T15:50:19.605Z",
-    "updated_at": "2024-11-14T21:06:40.605Z",
+    "updated_at": "2024-11-14T21:15:28.907Z",
     "generate_pages_site": true
   },
   "is_private": false
