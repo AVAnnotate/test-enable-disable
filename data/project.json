@@ -8,7 +8,7 @@
   "project": {
     "github_org": "AVAnnotate",
     "is_private": false,
-    "title": "Test Enable Disable Again",
+    "title": "Test Enable Disable",
     "description": "Testing",
     "language": "en",
     "slug": "test-enable-disable",
@@ -104,7 +104,7 @@
       ]
     },
     "created_at": "2024-11-14T15:50:19.605Z",
-    "updated_at": "2024-12-18T20:57:03.900Z",
+    "updated_at": "2025-03-04T16:14:23.410Z",
     "generate_pages_site": true
   },
   "is_private": false
